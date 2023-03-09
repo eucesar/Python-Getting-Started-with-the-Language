@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+   <img align="center" alt="Cesar-Python" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+   <img align="center" alt="Cesar-C" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </p>
 
 > 🌱👨‍💻 - I learned Python 3 in practice. Create a game to learn the fundamental features of Python 3. And I compared the same game created in Python with C. I created the site using the Alura course.
