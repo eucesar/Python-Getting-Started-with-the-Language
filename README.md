@@ -9,7 +9,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/Java-JRE-and-JDK-compile-and-run-your-program.git
+https://github.com/eucesar/Python-Getting-Started-with-the-Language.git
 ```
 
 ## Cesar
